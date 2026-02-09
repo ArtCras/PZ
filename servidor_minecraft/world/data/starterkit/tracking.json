@@ -1,0 +1,12 @@
+{
+  "singleplayer": {
+    "pz3": true
+  },
+  "multiplayer": {
+    "cb38dfc8-2dc9-4ac9-8aa9-ea9b1e3cb2bb": true,
+    "2e8f822e-522f-328a-afb0-a009af55487b": true,
+    "109ef72f-e122-3f70-98bc-0ee825256202": true,
+    "01752ecb-ac23-3086-8067-d0d6451b14a2": true,
+    "64c05bd2-7d35-32d6-ad42-fda637c9adb9": true
+  }
+}
